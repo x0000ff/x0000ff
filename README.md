@@ -6,6 +6,22 @@ func greet() {
 }
 ```
 
+## PLVS VLTRA
+
+I am a passionate programmer loving to resolve architecture problems.
+
+- 🚀 "Build succeed" in 1986 in ☭ Soviet Union near Leningrad (Saint Petersburg nowadays)
+
+- ❤️ Was seduced by Turbo Pascal in primary school
+
+- 📱 Mobile developer since 2006 and J2ME ☕
+
+- 🤖 Android Junior at 2010
+
+-  Runaway to iOS development in 2011
+
+- 🇨🇱 2013 moved to Chile 🗿🥑🍷
+
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x0000ff" alt="x0000ff" /> </p>
 -->
