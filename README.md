@@ -20,8 +20,10 @@ I am a passionate programmer loving to resolve architecture problems.
 
 -  Runaway to iOS development in 2011
 
-- 🇨🇱 2013 moved to Chile 🗿🥑🍷
+- 🇨🇱 2013 moved to Santiago, Chile 🗿🥑🍷
 
+- 🇪🇸 2021 moved to Barcelona,Spain ☀️🍊🌊
+ 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x0000ff" alt="x0000ff" /> </p>
 -->
